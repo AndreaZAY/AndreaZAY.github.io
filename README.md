@@ -1,8 +1,7 @@
 ## Table of contents
 1. [About Me](#me)
 2. [Portfolio](#portfolio)
-    - [Natural language processing on Fed announcements](#fed)
-    - [Natural language processing 10-Ks to identify risks](#10k)
+    - [NLP: Sentiment Analysis on FY2022 10-K Reports from S&P 500 Companies](#fed)
     - [Regression Practice](#reg)
 3. [Job Description and Career Objective](#career)
 4. [My Hobbies](#hobbies)
